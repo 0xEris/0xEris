@@ -7,8 +7,8 @@
 
 <div>
    <a href="http://www.github.com/cyber-konan">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-konan&theme=dark&hide_border=true&layout=compact">
-    <img height="180em" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-konan&theme=dark&hide_border=true&layout=compact">
+    <img height="180em" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-konan&theme=dark&hide_border=true&layout=compact">
+    <img height="180em" width="295" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-konan&theme=dark&hide_border=true&layout=compact">
    </a>
 </div>
 
