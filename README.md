@@ -7,8 +7,7 @@
 
 <div>
    <a href="http://www.github.com/0xEris">
-    <img height="180em" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=0xEris&theme=dark&hide_border=true&layout=compact">
-    <img height="180em" width="295" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEris&theme=dark&hide_border=true&layout=compact">
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xEris&theme=transparent&currStreakNum=EBEBEB&ring=EB6300&fire=EB6300&currStreakLabel=EB6300&sideLabels=EBEBEB&sideNums=EBEBEBE0&dates=EBEBEB9B" alt="GitHub Streak" /></a>
    </a>
 </div>
 
